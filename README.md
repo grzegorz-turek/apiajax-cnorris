@@ -1,0 +1,1 @@
+API & AJAX exercise: https://grzegorz-turek.github.io/apiajax-cnorris/
